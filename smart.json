@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "npm": {},
+    "router": {},
+    "spin": {},
+    "paginated-subscription": {}
+  }
+}
